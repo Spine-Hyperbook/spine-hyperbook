@@ -2,7 +2,7 @@ site_name: Spine Hyperbook
 site_description: A curriculum-mapped spine surgery reference for T&O and neurosurgical trainees
 site_author: Your name here
 # site_url: https://yourdomain.co.uk   # uncomment and set once you have a domain
-repo_url: https://github.com/YOUR-GITHUB-USERNAME/spine-hyperbook   # update this
+repo_url: https://github.com/spine-hyperbook/spine-hyperbook
 repo_name: spine-hyperbook
 edit_uri: edit/main/docs/
 
