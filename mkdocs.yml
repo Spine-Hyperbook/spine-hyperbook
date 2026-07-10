@@ -1,0 +1,100 @@
+site_name: Spine Hyperbook
+site_description: A curriculum-mapped spine surgery reference for T&O and neurosurgical trainees
+site_author: Your name here
+# site_url: https://yourdomain.co.uk   # uncomment and set once you have a domain
+repo_url: https://github.com/YOUR-GITHUB-USERNAME/spine-hyperbook   # update this
+repo_name: spine-hyperbook
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.tabs.link
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+  - tags
+
+nav:
+  - Home: index.md
+  - How the Curriculum Mapping Works: curriculum-guide.md
+  - Cervical Spine:
+      - cervical-spine/index.md
+      - Cervical Radiculopathy: cervical-spine/cervical-radiculopathy.md
+      - Cervical Myelopathy: cervical-spine/cervical-myelopathy.md
+      - ACDF vs Cervical Disc Replacement: cervical-spine/acdf-vs-disc-replacement.md
+      - Craniocervical Junction & Atlantoaxial Instability: cervical-spine/craniocervical-junction.md
+  - Thoracic Spine:
+      - thoracic-spine/index.md
+      - Thoracic Disc Herniation: thoracic-spine/thoracic-disc-herniation.md
+  - Lumbar Spine:
+      - lumbar-spine/index.md
+      - Lumbar Disc Herniation & Sciatica: lumbar-spine/disc-herniation-sciatica.md
+      - Lumbar Spinal Stenosis & Degenerative Spondylolisthesis: lumbar-spine/spinal-stenosis-spondylolisthesis.md
+      - Revision Lumbar Spine Surgery: lumbar-spine/revision-surgery.md
+  - Deformity:
+      - deformity/index.md
+      - Adult Spinal Deformity & Sagittal Balance: deformity/adult-spinal-deformity.md
+      - Adolescent Idiopathic Scoliosis: deformity/adolescent-idiopathic-scoliosis.md
+      - Early Onset Scoliosis: deformity/early-onset-scoliosis.md
+      - Spondylolysis & Isthmic Spondylolisthesis: deformity/spondylolysis-spondylolisthesis.md
+  - Trauma:
+      - trauma/index.md
+      - Cervical Spine Trauma: trauma/cervical-spine-trauma.md
+      - Thoracolumbar Spine Trauma: trauma/thoracolumbar-trauma.md
+      - Spinal Cord Injury: trauma/spinal-cord-injury.md
+      - Osteoporotic Vertebral Fractures & Vertebroplasty: trauma/osteoporotic-fractures-vertebroplasty.md
+  - Tumour:
+      - tumour/index.md
+      - Primary Spinal Tumours: tumour/primary-spinal-tumours.md
+      - Metastatic Spinal Cord Compression: tumour/metastatic-spinal-cord-compression.md
+  - Infection:
+      - infection/index.md
+      - Pyogenic Spinal Infection: infection/pyogenic-infection.md
+      - Spinal Tuberculosis: infection/spinal-tuberculosis.md
+  - Inflammatory:
+      - inflammatory/index.md
+      - Rheumatoid Cervical Spine: inflammatory/rheumatoid-cervical-spine.md
+      - Ankylosing Spondylitis: inflammatory/ankylosing-spondylitis.md
+  - Emergencies:
+      - emergencies/index.md
+      - Cauda Equina Syndrome: emergencies/cauda-equina-syndrome.md
+  - Paediatric Spine: paediatric-spine/index.md
+  - Radiology: radiology/index.md
+  - Miscellaneous: misc/index.md
+  - Tags: tags.md
+  - About & Contributors: about/index.md
