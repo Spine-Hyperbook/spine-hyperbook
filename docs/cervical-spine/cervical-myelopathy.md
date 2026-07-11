@@ -9,7 +9,7 @@ tags:
 
 # Cervical Myelopathy
 
-!!! abstract "Curriculum mapping"
+!!! abstract "Curriculum Mapping"
     **T&O curriculum:** The aging spine and degenerative disease, Basic Science > Pathology (p.52, level 2/4/4). Compressive conditions including radicular, stenotic, myelopathic, Treatments > Operative (p.53, level 1/4/4).
 
     **Skills:** Cervical laminectomy, cervical laminoplasty, cervical vertebrectomy for myelopathy, ACDF +/- fusion, posterior decompression +/- fixation/fusion C2-C7 (p.66, level 0/1/4).
@@ -18,7 +18,7 @@ tags:
 
 ## Introduction
 
-Degenerative cervical myelopathy (DCM), most commonly caused by cervical spondylosis, is the leading cause of spinal cord dysfunction in adults worldwide. Unlike radiculopathy, which is usually self-limiting, DCM tends to progress in a stepwise fashion and rarely improves without treatment, this is the single most important thing to communicate to patients and to trainees learning the condition for the first time.
+Degenerative cervical myelopathy (DCM), most commonly caused by cervical spondylosis, is the leading cause of spinal cord dysfunction in adults worldwide. Unlike radiculopathy, which is usually self-limiting, DCM tends to progress in a stepwise fashion. This is the single most important thing to communicate to patients.
 
 ## Aetiology
 
@@ -33,14 +33,14 @@ Cord compression develops from a combination of:
 
 Cord injury itself is thought to arise from a combination of direct mechanical compression and ischaemic injury from compromise of the anterior spinal artery.
 
-!!! info "Worth flagging to trainees"
-    Tandem stenosis, coexisting lumbar spinal stenosis, occurs in roughly one in five patients with cervical stenosis. Worth a low threshold for whole-spine imaging in a patient with mixed upper and lower limb symptoms. See the [Lumbar Spinal Stenosis](../lumbar-spine/spinal-stenosis-spondylolisthesis.md) page.
+!!! info "Be aware"
+    Tandem stenosis, coexisting lumbar spinal stenosis, occurs in roughly one in five patients with cervical stenosis. It is worth having a low threshold for whole-spine imaging in a patient with mixed upper and lower limb symptoms. See the [Lumbar Spinal Stenosis](../lumbar-spine/spinal-stenosis-spondylolisthesis.md) page.
 
 ## Classification
 
-Two scoring systems are in routine UK use, and it's worth being fluent in both since they're used differently.
+Two scoring systems are routinely used in the UK, and it's worth undertanding both.
 
-**Nurick grade** is based purely on gait and employability, quick to apply at the bedside:
+**Nurick grade** is based purely on gait and employability. It is quick to apply at the bedside:
 
 | Grade | Description |
 |---|---|
@@ -56,9 +56,9 @@ Two scoring systems are in routine UK use, and it's worth being fluent in both s
 ## Clinical presentation
 
 - **Gait disturbance** is the single most important clinical predictor, patients often describe feeling unsteady rather than reporting frank weakness
-- Bilateral, non-dermatomal hand numbness and clumsiness, dropping objects, difficulty with buttons or fine manipulation
-- Neck pain is frequently mild or absent, don't let its absence reassure you
-- Bladder symptoms are a late feature and are of limited diagnostic value in this age group given how common incidental urinary symptoms already are
+- Bilateral, non-dermatomal hand numbness and clumsiness, dropping objects, difficulty with buttons and other fine motor skills
+- Neck pain is frequently mild or absent
+- Bladder symptoms are a late feature and are of limited diagnostic value in this age group given how common incidental urinary symptoms are
 
 ### Examination findings, and how much to trust them
 
@@ -67,7 +67,7 @@ Orthobullets and similar US resources often present clonus and Hoffmann's sign w
 | Sign | What the evidence actually shows |
 |---|---|
 | Tromner's sign | The most sensitive sign across pooled studies (roughly 79-97%), better than Hoffmann's for screening |
-| Hoffmann's sign | Highly variable across studies, sensitivity reported anywhere from 0-94%, specificity 0-90% depending on the study population. Common, but not reliable enough to rule DCM in or out on its own |
+| Hoffmann's sign | Highly variable across studies, sensitivity reported anywhere from 0-94%, specificity 0-90% depending on the study population. Common, but not reliable enough on its own |
 | Babinski sign | Low sensitivity (around 7-53%) but consistently high specificity (92-100%), useful for confirming, not screening |
 | Sustained clonus | Similarly low sensitivity, high specificity (96-100%) |
 | Inverted supinator (inverted radial) reflex | Moderate sensitivity, good specificity |
@@ -80,32 +80,33 @@ Also examine for: Lhermitte's phenomenon (electric-shock sensation down the spin
 ## Investigations
 
 - **MRI cervical spine** is the investigation of choice. Look for cord signal change on T2 (myelomalacia), which correlates with disease severity, and note that T1 signal change specifically is associated with a worse prognosis after surgery.
-- Plain radiographs (including flexion/extension views) still have a role for assessing alignment and dynamic instability, but degenerative changes are extremely common in asymptomatic older adults, don't over-interpret incidental findings.
-- CT is complementary to MRI, particularly useful for characterising OPLL and osteophyte morphology pre-operatively.
-- CT myelography is reserved for patients who cannot have MRI (pacemakers, incompatible hardware).
+- Plain radiographs (including flexion/extension views) still have a role for assessing alignment and dynamic instability, but degenerative changes are extremely common in asymptomatic older adults, and so don't over-interpret incidental findings.
+- CT is complementary to MRI, and is particularly useful for characterising OPLL as well as osteophyte morphology pre-operatively.
+- CT myelography is now rare and reserved for patients who cannot have MRI (incompatible pacemakers or other hardware).
 
 ## Differential diagnosis
 
-Normal age-related gait change, stroke, vitamin B12 deficiency (subacute combined degeneration), motor neurone disease, and multiple sclerosis are the differentials most likely to be genuinely confused with DCM, particularly in a patient with a mild or atypical presentation.
+Normal age-related gait change, stroke, vitamin B12 deficiency (subacute combined degeneration), motor neurone disease, and multiple sclerosis are the differentials most likely to be confused with DCM, particularly in a patient with a mild or atypical presentation.
 
 ## Management
 
 !!! abstract "AO Spine / Cervical Spine Research Society guideline (2017, still current UK reference)"
+    - [AO Spine / CSRS clinical practice guidelines, *Global Spine Journal* 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684840/)
     - **Moderate or severe DCM (mJOA <14):** surgery is recommended.
     - **Mild DCM (mJOA >14):** either surgical decompression or a supervised trial of structured rehabilitation is an acceptable option, this is a genuine choice, not a default to observe.
-    - Patients managed non-operatively should be offered surgery if they deteriorate or fail to improve.
+    - Patients managed non-operatively should be offered surgery if they deteriorate.
 
-Surgical goals are decompression of the cord and, where indicated, correction of kyphotic alignment. The choice between an anterior approach (ACDF, corpectomy) and a posterior approach (laminectomy with fusion, or laminoplasty) is guided mainly by the number of stenotic levels, the presence and magnitude of fixed cervical kyphosis, and where the compression is coming from (anterior pathology tends to favour an anterior approach). A detailed technique-by-technique breakdown belongs on a separate approaches/techniques page rather than here.
+Surgical goals are decompression of the cord and, where indicated, correction of alignment. The choice between an anterior approach (ACDF, ACDR, corpectomy) and a posterior approach (laminectomy +/- fusion, or laminoplasty) is guided mainly by the number of stenotic levels, the presence and magnitude of fixed cervical kyphosis, and where the compression is coming from (anterior pathology tends to favour an anterior approach).
 
-!!! question "Controversy: how urgent is 'urgent'?"
-    The framing "time is spine" is now standard teaching, earlier surgery in moderate/severe disease limits long-term disability. But mild disease is genuinely unsettled territory, the guideline explicitly permits a trial of rehabilitation rather than mandating surgery, which surprises trainees who assume any myelopathy is an automatic operative indication. OPLL may modify this further: some Asia-Pacific practice favours earlier or even prophylactic surgery given OPLL's tendency to progress, reflecting a higher regional incidence and correspondingly more experience with its natural history.
+!!! question "Controversy: How urgent is 'urgent'?"
+    The phrase "time is spine" is standard teaching. Earlier surgery in moderate/severe disease limits long-term disability, but mild disease it is unclear. The guideline explicitly permits a trial of rehabilitation rather than mandating surgery, which surprises trainees who assume any myelopathy is an automatic operative indication. OPLL may modify this further: some Asia-Pacific practice favours earlier or even prophylactic surgery given OPLL's tendency to progress, reflecting a higher regional incidence and correspondingly more experience with its natural history.
 
 ## Complications
 
 - **C5 palsy**: pooled prevalence around 5.3% after cervical decompression, slightly higher after posterior surgery (5.8%) than anterior (5.2%), and higher still in laminectomy-and-fusion specifically. Onset is typically within days of surgery; most cases recover over weeks to months, though a meaningful minority don't fully resolve.
 - **Pseudarthrosis**: more common with multilevel constructs than single-level.
-- **Dysphagia**: a recognised complication of anterior approaches; local steroid application in the retropharyngeal space before closure has been shown to reduce its incidence.
-- **Postoperative kyphosis**: a specific risk of laminectomy performed without fusion, part of why isolated laminectomy has fallen out of favour for multilevel disease.
+- **Dysphagia**: a recognised complication of anterior approaches.
+- **Postoperative kyphosis**: a specific risk of laminectomy performed without fusion.
 
 ## Evidence base
 

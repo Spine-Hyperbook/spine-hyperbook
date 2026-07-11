@@ -27,7 +27,7 @@ Most curriculum mapping boxes quote a pattern like `2/4/4`. This is always three
 
 ## What the numbers themselves mean
 
-The curriculum uses **two different scales** depending on whether the item is a knowledge item or a hands-on skill. This site's mapping boxes are always explicit about which one applies. Here is the definition of each:
+The curriculum uses two different scales depending on whether the item is a knowledge item or a hands-on skill. This site's mapping boxes are always explicit about which one applies. Here is the definition of each:
 
 ### Knowledge scale (Basic Science, Critical Conditions, Assessments, Treatments)
 
@@ -48,7 +48,7 @@ The curriculum uses **two different scales** depending on whether the item is a 
 | 3 | Can manage the whole procedure, but may need assistance |
 | 4 | Able to manage without assistance, including common complications |
 
-Skills use a 0-4 scale rather than 1-4, "0" exists specifically to mark procedures a trainee at that level isn't expected to have experienced.
+Skills use a 0-4 scale rather than 1-4. "0" exists specifically to mark procedures a trainee at that level isn't expected to have experienced.
 
 So `2/4/4` means: core trainees are expected to know basic concepts, while both general ST3-8 trainees and spine-interest trainees are expected to know the topic specifically and broadly.
 
