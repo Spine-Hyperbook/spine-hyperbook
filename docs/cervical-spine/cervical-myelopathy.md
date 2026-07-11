@@ -38,7 +38,7 @@ Cord injury itself is thought to arise from a combination of direct mechanical c
 
 ## Classification
 
-Two scoring systems are routinely used in the UK, and it's worth undertanding both.
+Two scoring systems are routinely used in the UK, and it's worth understanding both.
 
 **Nurick grade** is based purely on gait and employability. It is quick to apply at the bedside:
 
@@ -112,13 +112,23 @@ Surgical goals are decompression of the cord and, where indicated, correction of
 
 | Study | Key finding |
 |---|---|
-| AO Spine / CSRS clinical practice guidelines, *Global Spine Journal* 2017 | Surgery recommended for moderate (mJOA 12-14) or severe (mJOA <12) DCM. For mild DCM, either surgery or supervised structured rehabilitation is acceptable. |
-| Degenerative cervical myelopathy: timing of surgery, *EFORT Open Reviews* 2025 | OPLL is a modifier of surgical timing; emerging MRI biomarkers (e.g. SIMS score) may eventually refine timing in mild disease. |
-| Brannigan J et al., single-centre service evaluation of AO Spine guideline implementation, 2024 (Cambridge) | Real-world evaluation of guideline implementation in a UK unit. |
-| Clinical signs and symptoms for DCM: scoping review, *Spinal Cord* 2025 | Tromner's sign and hyperreflexia most sensitive; Babinski, clonus and inverted supinator most specific. No single sign reliable in isolation. |
-| The value of clinical signs in the diagnosis of DCM: systematic review and meta-analysis, 2024 | Confirms the sensitive-vs-specific split above across pooled data from over 70 studies. |
-| Prevalence of C5 nerve root palsy after cervical decompressive surgery: meta-analysis, 79 studies, 13,621 patients | Pooled prevalence 5.3% (95% CI 4.6-6.0%), slightly higher after posterior than anterior surgery. |
+| [AO Spine / CSRS clinical practice guidelines, *Global Spine Journal* 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684840/) | Surgery recommended for moderate (mJOA 12-14) or severe (mJOA <12) DCM. For mild DCM, either surgery or supervised structured rehabilitation is acceptable. |
+| [Degenerative cervical myelopathy: timing of surgery, *EFORT Open Reviews* 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12139713/) | OPLL is a modifier of surgical timing; emerging MRI biomarkers (e.g. SIMS score) may eventually refine timing in mild disease. |
+| [Brannigan J et al., single-centre service evaluation of AO Spine guideline implementation, *Global Spine Journal* 2024 (Cambridge)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11561916/) | Real-world evaluation of guideline implementation in a UK unit. Mean mJOA improvement of 1.5-1.9 points at 3, 6 and 12 months post-op. |
+| [Clinical signs and symptoms for DCM: scoping review, *Spinal Cord* 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/) | Tromner's sign and hyperreflexia most sensitive; Babinski, clonus and inverted supinator most specific. No single sign reliable in isolation. |
+| [The value of clinical signs in the diagnosis of DCM: systematic review and meta-analysis, *Global Spine Journal* 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/) | Confirms the sensitive-vs-specific split above across pooled data from over 70 studies. |
+| [Prevalence of C5 nerve root palsy after cervical decompressive surgery: meta-analysis, *European Spine Journal* 2015](https://pubmed.ncbi.nlm.nih.gov/26281981/) | 79 studies, 13,621 patients. Pooled prevalence 5.3% (95% CI 4.6-6.0%), slightly higher after posterior than anterior surgery. |
 
 ## References
 
-*To be added by page author, following a maximum of one short direct quote per source and paraphrase elsewhere.*
+1. Fehlings MG, Tetreault LA, Riew KD, et al. [A Clinical Practice Guideline for the Management of Patients With Degenerative Cervical Myelopathy: Recommendations for Patients With Mild, Moderate, and Severe Disease and Nonmyelopathic Patients With Evidence of Cord Compression](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684840/). *Global Spine Journal*. 2017;7(3 Suppl):70S-83S.
+2. Fasinella MR, Benato A, Creatura D, Morgado A, Barrey CY. [Degenerative cervical myelopathy: timing of surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC12139713/). *EFORT Open Reviews*. 2025;10(6):403-415.
+3. Brannigan JFM, Vellaiyappan SK, Mowforth OD, et al. [Outcomes for Degenerative Cervical Myelopathy Following Implementation of the AO Spine International Guidelines: A Single-Centre Service Evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11561916/). *Global Spine Journal*. 2024.
+4. Sharma S, Sial A, Sima S, Diwan A. [Clinical signs and symptoms for degenerative cervical myelopathy: a scoping review of case-control studies to facilitate early diagnosis among healthcare professionals with stakeholder engagement](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/). *Spinal Cord*. 2025;63:171-180.
+5. Jiang Z, Davies B, Zipser C, et al. [The value of Clinical signs in the diagnosis of Degenerative Cervical Myelopathy - A Systematic review and Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/). *Global Spine Journal*. 2024;14(4):1369-1394.
+6. Shou F, Li Z, Wang H, Yan C, Liu Q, Xiao C. [Prevalence of C5 nerve root palsy after cervical decompressive surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/26281981/). *European Spine Journal*. 2015;24(12):2724-2734.
+
+**Further reading**
+
+7. Fehlings MG, Tetreault LA, Riew KD, Middleton JW, Wang JC. [A Clinical Practice Guideline for the Management of Degenerative Cervical Myelopathy: Introduction, Rationale, and Scope](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684844/). *Global Spine Journal*. 2017;7(3 Suppl):21S-27S. The companion paper to reference 1, useful background on how the guideline was developed and why.
+8. Davies BM, Mowforth OD, Smith EK, Kotter MR. [Degenerative cervical myelopathy](https://doi.org/10.1136/bmj.k186). *BMJ*. 2018;360:k186. A well-known general overview aimed at a broader clinical audience, useful as an accessible introduction before going into the guideline itself.

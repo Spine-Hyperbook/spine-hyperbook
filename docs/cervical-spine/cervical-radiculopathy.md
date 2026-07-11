@@ -7,14 +7,16 @@ tags:
 
 # Cervical Radiculopathy
 
-!!! abstract "Curriculum Mapping"
+!!! abstract "Curriculum mapping"
     **T&O curriculum:** The aging spine and degenerative disease, Basic Science > Pathology (p.52, level 2/4/4). Compressive conditions including radicular, stenotic, myelopathic, Treatments > Operative (p.53, level 1/4/4).
 
     **Skills:** Anterior Cervical Discectomy +/- Fusion, cervical disc replacement (p.66, level 0/1/4 and 0/1/3 respectively).
 
+    See also: [Cervical Spondylotic Myelopathy](cervical-myelopathy.md), a different condition with a different natural history and different urgency, worth being explicit with trainees about why these are separate pages rather than one combined topic.
+
 ## Status
 
-Unlike myelopathy, cervical radiculopathy is usually self-limiting, most cases improve with non-operative management, and the evidence base and urgency are often different.
+Split out from the combined radiculopathy/myelopathy page, curriculum mapping is done, full clinical write-up pending. Unlike myelopathy, cervical radiculopathy is usually self-limiting, most cases improve with non-operative management, and the evidence base and urgency framing are genuinely different, worth reflecting that difference clearly once this page is written rather than reusing myelopathy's content with the nouns swapped.
 
 ## What the page should cover
 
@@ -26,4 +28,4 @@ Unlike myelopathy, cervical radiculopathy is usually self-limiting, most cases i
 
 ## Evidence base
 
-*Pending*
+*Pending, search terms to start from: "cervical radiculopathy natural history conservative management", "cervical foraminotomy versus ACDF outcomes", "Spurling test diagnostic accuracy cervical radiculopathy".*
