@@ -1,6 +1,6 @@
 # Radiology
 
-Not yet built. BOFAS's Hyperbook runs this as a numbered series of short imaging-focused pages (normal anatomy, classic pathological appearances, measurement techniques) rather than folding imaging into every condition page, worth copying that structure here rather than reinventing it.
+Not yet built. BOFAS's Hyperbook runs this as a numbered series of short imaging-focused pages (normal anatomy, classic pathological appearances, measurement techniques) rather than folding imaging into every condition page.
 
 Planned scope:
 

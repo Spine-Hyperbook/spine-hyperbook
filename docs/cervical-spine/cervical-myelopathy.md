@@ -66,14 +66,14 @@ Orthobullets and similar US resources often present clonus and Hoffmann's sign w
 
 | Sign | What the evidence actually shows |
 |---|---|
-| Tromner's sign | Unusually good on both axes: sensitivity 93-97% and specificity 79-100% in the same pooled studies, outperforming Hoffmann's for both screening and confirmation ([Jiang et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/); [Sharma et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/)) |
+| Tromner's sign | Unusually good: sensitivity 93-97% and specificity 79-100% in the same pooled studies, outperforming Hoffmann's for both screening and confirmation ([Jiang et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/); [Sharma et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/)) |
 | Hoffmann's sign | Highly variable across studies, sensitivity reported anywhere from 0-94%, specificity 0-90% depending on the study population. Common, but not reliable enough on its own |
 | Babinski sign | Low sensitivity (around 7-53%) but consistently high specificity (92-100%), useful for confirming, not screening |
 | Sustained clonus | Similarly low sensitivity, high specificity (96-100%) |
 | Inverted supinator (inverted radial) reflex | Moderate sensitivity, good specificity |
 | Hyperreflexia generally | One of the more sensitive findings, but can be masked by a coexisting peripheral neuropathy (e.g. diabetic) or lumbar radiculopathy |
 
-**Teaching point:** sensitive signs (hyperreflexia) are generally better for screening, while specific signs (Babinski, clonus, inverted supinator) are better for confirming DCM once suspected. Tromner's sign is the exception to that trade-off, it performs well on both axes and is arguably the single most useful individual sign, though no sign should be used in isolation regardless.
+**Teaching point:** sensitive signs (hyperreflexia) are generally better for screening, while specific signs (Babinski, clonus, inverted supinator) are better for confirming DCM once suspected. Tromner's sign is the exception, it performs well on both sensitivity and specificity and is arguably the single most useful individual sign, though no sign should be used in isolation regardless.
 
 Also examine for: Lhermitte's phenomenon (electric-shock sensation down the spine on neck flexion, not specific to DCM and also seen in multiple sclerosis and vitamin B12 deficiency), broad-based or unsteady gait, and a positive Romberg's test suggesting dorsal column involvement.
 
