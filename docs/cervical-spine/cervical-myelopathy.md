@@ -28,10 +28,10 @@ Cord compression develops from a combination of:
 - Hypertrophy of the ligamentum flavum
 - Degenerative spondylolisthesis
 - Congenital canal narrowing, symptoms often emerge when a pre-existing narrow canal combines with later spondylotic change
-- Ossification of the posterior longitudinal ligament (OPLL), more common in East Asian populations and associated with a different, sometimes more aggressive, natural history
+- Ossification of the posterior longitudinal ligament (OPLL), more common in East Asian populations and associated with a different natural history, with a greater propensity for progression
 - Less commonly: tumour, epidural abscess, trauma, or fixed cervical kyphosis
 
-Cord injury itself is thought to arise from a combination of direct mechanical compression and ischaemic injury from compromise of the anterior spinal artery.
+Cord injury itself is thought to arise from a combination of direct mechanical compression and microvascular ischaemia with impaired spinal cord perfusion.
 
 !!! info "Be aware"
     Tandem stenosis, coexisting lumbar spinal stenosis, occurs in roughly one in five patients with cervical stenosis. It is worth having a low threshold for whole-spine imaging in a patient with mixed upper and lower limb symptoms. See the [Lumbar Spinal Stenosis](../lumbar-spine/spinal-stenosis-spondylolisthesis.md) page.
@@ -55,10 +55,10 @@ Two scoring systems are routinely used in the UK, and it's worth understanding b
 
 ## Clinical presentation
 
-- **Gait disturbance** is the single most important clinical predictor, patients often describe feeling unsteady rather than reporting frank weakness
+- **Gait disturbance** is the most common and clinically important presenting feature, patients often describe feeling unsteady rather than reporting frank weakness
 - Bilateral, non-dermatomal hand numbness and clumsiness, dropping objects, difficulty with buttons and other fine motor skills
 - Neck pain is frequently mild or absent
-- Bladder symptoms are a late feature and are of limited diagnostic value in this age group given how common incidental urinary symptoms are
+- Bladder symptoms, most often urgency rather than frank retention (which is a relatively late manifestation), are of limited diagnostic value in this age group given how common incidental urinary symptoms are
 
 ### Examination findings, and how much to trust them
 
@@ -66,34 +66,34 @@ Orthobullets and similar US resources often present clonus and Hoffmann's sign w
 
 | Sign | What the evidence actually shows |
 |---|---|
-| Tromner's sign | The most sensitive sign across pooled studies (roughly 79-97%), better than Hoffmann's for screening |
+| Tromner's sign | Unusually good on both axes: sensitivity 93-97% and specificity 79-100% in the same pooled studies, outperforming Hoffmann's for both screening and confirmation ([Jiang et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/); [Sharma et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/)) |
 | Hoffmann's sign | Highly variable across studies, sensitivity reported anywhere from 0-94%, specificity 0-90% depending on the study population. Common, but not reliable enough on its own |
 | Babinski sign | Low sensitivity (around 7-53%) but consistently high specificity (92-100%), useful for confirming, not screening |
 | Sustained clonus | Similarly low sensitivity, high specificity (96-100%) |
 | Inverted supinator (inverted radial) reflex | Moderate sensitivity, good specificity |
-| Hyperreflexia generally | One of the more sensitive findings, but can be masked by a coexisting peripheral neuropathy or lumbar radiculopathy |
+| Hyperreflexia generally | One of the more sensitive findings, but can be masked by a coexisting peripheral neuropathy (e.g. diabetic) or lumbar radiculopathy |
 
-**Teaching point:** sensitive signs (Tromner's, hyperreflexia) are better for screening; specific signs (Babinski, clonus, inverted supinator) are better for ruling DCM in once suspected. No single sign should be used in isolation.
+**Teaching point:** sensitive signs (hyperreflexia) are generally better for screening, while specific signs (Babinski, clonus, inverted supinator) are better for confirming DCM once suspected. Tromner's sign is the exception to that trade-off, it performs well on both axes and is arguably the single most useful individual sign, though no sign should be used in isolation regardless.
 
-Also examine for: Lhermitte's phenomenon (electric-shock sensation down the spine on neck flexion), broad-based or unsteady gait, and a positive Romberg's test suggesting dorsal column involvement.
+Also examine for: Lhermitte's phenomenon (electric-shock sensation down the spine on neck flexion, not specific to DCM and also seen in multiple sclerosis and vitamin B12 deficiency), broad-based or unsteady gait, and a positive Romberg's test suggesting dorsal column involvement.
 
 ## Investigations
 
-- **MRI cervical spine** is the investigation of choice. Look for cord signal change on T2 (myelomalacia), which correlates with disease severity, and note that T1 signal change specifically is associated with a worse prognosis after surgery.
-- Plain radiographs (including flexion/extension views) still have a role for assessing alignment and dynamic instability, but degenerative changes are extremely common in asymptomatic older adults, and so don't over-interpret incidental findings.
+- **MRI cervical spine** is the investigation of choice. T2 cord hyperintensity reflects spinal cord injury (oedema, gliosis and/or myelomalacia), while T1 hypointensity is associated with more advanced irreversible injury and a poorer prognosis.
+- Plain radiographs have a role for assessing sagittal alignment, though degenerative changes are extremely common in asymptomatic older adults and shouldn't be over-interpreted in isolation. Flexion-extension radiographs may be useful where instability is suspected but are not routinely required.
 - CT is complementary to MRI, and is particularly useful for characterising OPLL as well as osteophyte morphology pre-operatively.
-- CT myelography is now rare and reserved for patients who cannot have MRI (incompatible pacemakers or other hardware).
+- CT myelography is now rare, reserved for patients who cannot have MRI, or in whom MRI is significantly degraded by metal artefact (e.g. from prior instrumentation).
 
 ## Differential diagnosis
 
-Normal age-related gait change, stroke, vitamin B12 deficiency (subacute combined degeneration), motor neurone disease, and multiple sclerosis are the differentials most likely to be confused with DCM, particularly in a patient with a mild or atypical presentation.
+Normal age-related gait change, stroke, vitamin B12 deficiency (subacute combined degeneration), motor neurone disease, multiple sclerosis, peripheral neuropathy, and normal pressure hydrocephalus are the differentials most likely to be confused with DCM, particularly in a patient with a mild or atypical presentation. Peripheral neuropathy and normal pressure hydrocephalus are both easy to overlook, and both commonly coexist with the same elderly population at risk of DCM.
 
 ## Management
 
 !!! abstract "AO Spine / Cervical Spine Research Society guideline (2017, still current UK reference)"
     - [AO Spine / CSRS clinical practice guidelines, *Global Spine Journal* 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684840/)
     - **Moderate or severe DCM (mJOA <14):** surgery is recommended.
-    - **Mild DCM (mJOA >14):** either surgical decompression or a supervised trial of structured rehabilitation is an acceptable option, this is a genuine choice, not a default to observe.
+    - **Mild DCM (mJOA >14):** either surgical decompression or a supervised trial of structured rehabilitation is an acceptable option, this is a genuine choice, not a default to observe. Rehabilitation has little evidence for reversing established neurological deficit, it is used primarily to support function alongside close clinical observation rather than as a treatment expected to improve myelopathic signs.
     - Patients managed non-operatively should be offered surgery if they deteriorate.
 
 Surgical goals are decompression of the cord and, where indicated, correction of alignment. The choice between an anterior approach (ACDF, ACDR, corpectomy) and a posterior approach (laminectomy +/- fusion, or laminoplasty) is guided mainly by the number of stenotic levels, the presence and magnitude of fixed cervical kyphosis, and where the compression is coming from (anterior pathology tends to favour an anterior approach).
@@ -101,9 +101,13 @@ Surgical goals are decompression of the cord and, where indicated, correction of
 !!! question "Controversy: How urgent is 'urgent'?"
     The phrase "time is spine" is standard teaching. Earlier surgery in moderate/severe disease limits long-term disability, but mild disease it is unclear. The guideline explicitly permits a trial of rehabilitation rather than mandating surgery, which surprises trainees who assume any myelopathy is an automatic operative indication. OPLL may modify this further: some Asia-Pacific practice favours earlier or even prophylactic surgery given OPLL's tendency to progress, reflecting a higher regional incidence and correspondingly more experience with its natural history.
 
+## Prognosis
+
+The primary aim of surgery in DCM is to halt neurological deterioration rather than reverse it. Most patients experience some degree of improvement in mJOA score postoperatively, but complete normalisation is uncommon, and residual symptoms are frequent, particularly in longstanding disease or where preoperative imaging shows T1 cord signal change. This is worth setting as an expectation with patients before surgery, not just noting afterward.
+
 ## Complications
 
-- **C5 palsy**: pooled prevalence around 5.3% after cervical decompression, slightly higher after posterior surgery (5.8%) than anterior (5.2%), and higher still in laminectomy-and-fusion specifically. Onset is typically within days of surgery; most cases recover over weeks to months, though a meaningful minority don't fully resolve.
+- **C5 palsy**: pooled prevalence around 5.3% after cervical decompression, slightly higher after posterior surgery (5.8%) than anterior (5.2%), and higher still in laminectomy-and-fusion specifically. The typical pattern is predominantly deltoid ± biceps weakness with minimal sensory disturbance. Onset is typically within days of surgery; most cases recover over weeks to months, though a meaningful minority don't fully resolve.
 - **Pseudarthrosis**: more common with multilevel constructs than single-level.
 - **Dysphagia**: a recognised complication of anterior approaches.
 - **Postoperative kyphosis**: a specific risk of laminectomy performed without fusion.
@@ -127,8 +131,8 @@ Surgical goals are decompression of the cord and, where indicated, correction of
 4. Sharma S, Sial A, Sima S, Diwan A. [Clinical signs and symptoms for degenerative cervical myelopathy: a scoping review of case-control studies to facilitate early diagnosis among healthcare professionals with stakeholder engagement](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/). *Spinal Cord*. 2025;63:171-180.
 5. Jiang Z, Davies B, Zipser C, et al. [The value of Clinical signs in the diagnosis of Degenerative Cervical Myelopathy - A Systematic review and Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/). *Global Spine Journal*. 2024;14(4):1369-1394.
 6. Shou F, Li Z, Wang H, Yan C, Liu Q, Xiao C. [Prevalence of C5 nerve root palsy after cervical decompressive surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/26281981/). *European Spine Journal*. 2015;24(12):2724-2734.
+7. Davies BM, Mowforth OD, Smith EK, Kotter MR. [Degenerative cervical myelopathy](https://doi.org/10.1136/bmj.k186). *BMJ*. 2018;360:k186. One of the most widely cited overview articles on DCM and a landmark paper for UK trainees.
 
 **Further reading**
 
-7. Fehlings MG, Tetreault LA, Riew KD, Middleton JW, Wang JC. [A Clinical Practice Guideline for the Management of Degenerative Cervical Myelopathy: Introduction, Rationale, and Scope](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684844/). *Global Spine Journal*. 2017;7(3 Suppl):21S-27S. The companion paper to reference 1, useful background on how the guideline was developed and why.
-8. Davies BM, Mowforth OD, Smith EK, Kotter MR. [Degenerative cervical myelopathy](https://doi.org/10.1136/bmj.k186). *BMJ*. 2018;360:k186. A well-known general overview aimed at a broader clinical audience, useful as an accessible introduction before going into the guideline itself.
+8. Fehlings MG, Tetreault LA, Riew KD, Middleton JW, Wang JC. [A Clinical Practice Guideline for the Management of Degenerative Cervical Myelopathy: Introduction, Rationale, and Scope](https://pmc.ncbi.nlm.nih.gov/articles/PMC5684844/). *Global Spine Journal*. 2017;7(3 Suppl):21S-27S. The companion paper to reference 1, useful background on how the guideline was developed and why.
