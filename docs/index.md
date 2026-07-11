@@ -1,6 +1,6 @@
 # Spine Hyperbook
 
-A free, curriculum-mapped spine surgery reference for orthopaedic and neurosurgical trainees in the UK, inspired by BOFAS's **[Hyperbook] (https://www.bofas.org.uk/hyperbook/home)** for foot and ankle surgery.
+A free, curriculum-mapped spine surgery reference for orthopaedic and neurosurgical trainees in the UK, inspired by the **[BOFAS Hyperbook](https://www.bofas.org.uk/hyperbook/home)** for foot and ankle surgery.
 
 !!! warning "This is an independent project"
     This resource is currently being built and maintained independently. It is not associated with any specialist society. The aim is to demonstrate what a shared national resource could look like, with a view to it being adopted more formally in future.
