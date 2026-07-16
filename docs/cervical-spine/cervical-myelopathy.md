@@ -66,14 +66,14 @@ Orthobullets and similar US resources often present clonus and Hoffmann's sign w
 
 | Sign | What the evidence actually shows |
 |---|---|
-| Tromner's sign | Unusually good: sensitivity 93-97% and specificity 79-100% in the same pooled studies, outperforming Hoffmann's for both screening and confirmation ([Jiang et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/); [Sharma et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/)) |
+| Tromner's sign | Among the best-performing individual clinical signs in current evidence, with high sensitivity (93-97%) and specificity (79-100%), outperforming Hoffmann's sign across pooled studies ([Jiang et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11289551/); [Sharma et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11906348/)). Worth noting the underlying studies are heterogeneous and confidence intervals are still fairly broad |
 | Hoffmann's sign | Highly variable across studies, sensitivity reported anywhere from 0-94%, specificity 0-90% depending on the study population. Common, but not reliable enough on its own |
 | Babinski sign | Low sensitivity (around 7-53%) but consistently high specificity (92-100%), useful for confirming, not screening |
 | Sustained clonus | Similarly low sensitivity, high specificity (96-100%) |
 | Inverted supinator (inverted radial) reflex | Moderate sensitivity, good specificity |
 | Hyperreflexia generally | One of the more sensitive findings, but can be masked by a coexisting peripheral neuropathy (e.g. diabetic) or lumbar radiculopathy |
 
-**Teaching point:** sensitive signs (hyperreflexia) are generally better for screening, while specific signs (Babinski, clonus, inverted supinator) are better for confirming DCM once suspected. Tromner's sign is the exception, it performs well on both sensitivity and specificity and is arguably the single most useful individual sign, though no sign should be used in isolation regardless.
+**Teaching point:** sensitive signs (hyperreflexia) are generally better for screening, while specific signs (Babinski, clonus, inverted supinator) are better for confirming DCM once suspected. Current evidence suggests Tromner's sign may be the exception to that trade-off, performing well on both axes, though no sign, including Tromner's, should be used in isolation, and it's less familiar to many clinicians than Hoffmann's, worth practising deliberately rather than assuming competence.
 
 Also examine for: Lhermitte's phenomenon (electric-shock sensation down the spine on neck flexion, not specific to DCM and also seen in multiple sclerosis and vitamin B12 deficiency), broad-based or unsteady gait, and a positive Romberg's test suggesting dorsal column involvement.
 
@@ -103,7 +103,7 @@ Surgical goals are decompression of the cord and, where indicated, correction of
 
 ## Prognosis
 
-The primary aim of surgery in DCM is to halt neurological deterioration rather than reverse it. Most patients experience some degree of improvement in mJOA score postoperatively, but complete normalisation is uncommon, and residual symptoms are frequent, particularly in longstanding disease or where preoperative imaging shows T1 cord signal change. This is worth setting as an expectation with patients before surgery, not just noting afterward.
+The primary aim of surgery in DCM is to halt further neurological deterioration rather than reverse it. Most patients experience some degree of improvement in mJOA score postoperatively, but complete normalisation is uncommon, and residual symptoms are frequent, particularly in longstanding disease or where preoperative imaging shows T1 cord signal change. This is worth setting as an expectation with patients before surgery, not just noting afterward.
 
 ## Complications
 

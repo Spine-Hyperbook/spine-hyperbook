@@ -9,7 +9,7 @@ tags:
 
 # Cauda Equina Syndrome
 
-!!! abstract "Curriculum mapping"
+!!! abstract "Curriculum Mapping"
     **T&O curriculum:** Critical Condition, Spine module (p.53) and Appendix 3 master critical conditions list (p.89).
 
     **Knowledge level:** 3 (core) / 4 (ST3-8) / 4 (specialty interest), even core trainees are expected to know this *generally*, not just know of it.
@@ -21,14 +21,16 @@ tags:
     See also: [Metastatic Spinal Cord Compression](../tumour/metastatic-spinal-cord-compression.md), the other time-critical spinal condition, and [Lumbar Disc Herniation & Sciatica](../lumbar-spine/disc-herniation-sciatica.md) for the more common, non-emergency presentation this sits at the severe end of.
 
 !!! abstract "The GIRFT National Suspected Cauda Equina Syndrome Pathway"
-    Everything on this page should be read alongside, not instead of, the **[GIRFT National Suspected Cauda Equina Syndrome Pathway](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)**, developed with over 60 UK health professionals and periodically updated (February 2023, interactive version October 2023, most recently March 2026). This is the standard of care a patient with suspected CES in the UK should expect to receive, and it is referenced repeatedly through this page rather than treated as a separate topic. See also the **[interactive version](https://gettingitrightfirsttime.co.uk/interactive-pathway-to-help-diagnose-and-treat-cauda-equina-syndrome-without-delay-is-now-live/)**, designed for point-of-care use on any device.
+    Everything on this page should be read alongside, the **[GIRFT National Suspected Cauda Equina Syndrome Pathway](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)**, developed with over 60 UK health professionals and periodically updated (February 2023, interactive version October 2023, most recently March 2026). This is the standard of care a patient with suspected CES in the UK should expect to receive. 
+    
+    See also the **[interactive version](https://gettingitrightfirsttime.co.uk/interactive-pathway-to-help-diagnose-and-treat-cauda-equina-syndrome-without-delay-is-now-live/)**, designed for point-of-care use on any device.
 
 ## Introduction
 
 Cauda equina syndrome (CES) is compression of the lumbosacral nerve roots below the level of the spinal cord (typically below L1-L2), causing a characteristic combination of bladder, bowel, sexual, saddle sensory and lower limb motor/sensory disturbance. It is one of the few true orthopaedic surgical emergencies and one of the highest-volume sources of litigation in UK spinal practice. CES affects roughly 1-3 people per 100,000 population in England, with around 8,000 suspected cases assessed each year ([GIRFT](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)).
 
 !!! info "Most suspected CES is not actually CES"
-    In the largest prospective UK cohort to look at this directly ([Hoeritzauer et al., *Neurology* 2021](https://pubmed.ncbi.nlm.nih.gov/33177221/)), 69% of patients referred with suspected CES had no radiographic evidence of cauda equina compression on MRI, and only around a quarter had confirmed compression, consistent with an earlier systematic review's estimate of roughly 19%. A related Oxford analysis has separately reported that over 80% of urgent MRIs requested for suspected CES show no compression ([SuCESS score development, *BJS* 2026](https://academic.oup.com/bjs/article/113/Supplement_2/znag018.007/8551044)). This matters for how the whole topic should be taught: the diagnostic challenge isn't just recognising CES, it's managing a high-volume pathway where true positives are a minority, without either over-scanning everyone or missing the genuine emergencies. The ongoing **[CESER study](https://oxfordbrc.nihr.ac.uk/1-2m-award-to-improve-diagnosis-of-emergency-spinal-condition/)** (Cauda Equina Syndrome Early Recognition, NIHR-funded, Oxford) is specifically trying to improve this, recruiting 2,000 patients with suspected CES to identify which symptoms actually predict a confirmed diagnosis, worth watching for results.
+    In the largest prospective UK cohort to look at this directly ([Hoeritzauer et al., *Neurology* 2021](https://pubmed.ncbi.nlm.nih.gov/33177221/)), 69% of patients referred with suspected CES had no radiographic evidence of cauda equina compression on MRI, and only around a quarter had confirmed compression, consistent with an earlier systematic review's estimate of roughly 19%. A related Oxford analysis has separately reported that over 80% of urgent MRIs requested for suspected CES show no compression ([SuCESS score development, *BJS* 2026](https://academic.oup.com/bjs/article/113/Supplement_2/znag018.007/8551044)). This matters for how the whole topic should be taught: the diagnostic challenge isn't recognising CES, it's managing a high-volume pathway where true positives are a minority. The ongoing **[CESER study](https://oxfordbrc.nihr.ac.uk/1-2m-award-to-improve-diagnosis-of-emergency-spinal-condition/)** (Cauda Equina Syndrome Early Recognition, NIHR-funded, Oxford) is specifically trying to improve this, recruiting 2,000 patients with suspected CES to identify which symptoms predict a confirmed diagnosis.
 
 ## Aetiology
 
