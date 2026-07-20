@@ -9,7 +9,7 @@ tags:
 
 # Cauda Equina Syndrome
 
-!!! abstract "Curriculum mapping"
+!!! abstract "Curriculum Mapping"
     **T&O curriculum:** Critical Condition, Spine module (p.53) and Appendix 3 master critical conditions list (p.89).
 
     **Knowledge level:** 3 (core) / 4 (ST3-8) / 4 (specialty interest), even core trainees are expected to know this *generally*, not just know of it.
@@ -21,14 +21,14 @@ tags:
     See also: [Metastatic Spinal Cord Compression](../tumour/metastatic-spinal-cord-compression.md), the other time-critical spinal condition, and [Lumbar Disc Herniation & Sciatica](../lumbar-spine/disc-herniation-sciatica.md) for the more common, non-emergency presentation this sits at the severe end of.
 
 !!! abstract "The GIRFT National Suspected Cauda Equina Syndrome Pathway"
-    Everything on this page should be read alongside, not instead of, the **[GIRFT National Suspected Cauda Equina Syndrome Pathway](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)**, developed with over 60 UK health professionals and periodically updated (February 2023, interactive version October 2023, most recently March 2026). This is the standard of care a patient with suspected CES in the UK should expect to receive, and it is referenced repeatedly through this page rather than treated as a separate topic. See also the **[interactive version](https://gettingitrightfirsttime.co.uk/interactive-pathway-to-help-diagnose-and-treat-cauda-equina-syndrome-without-delay-is-now-live/)**, designed for point-of-care use on any device.
+    Everything on this page should be read alongside the **[GIRFT National Suspected Cauda Equina Syndrome Pathway](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)**, developed with over 60 UK health professionals and periodically updated (February 2023, interactive version October 2023, most recently March 2026). This is the standard of care a patient with suspected CES in the UK should expect to receive. See also the **[interactive version](https://gettingitrightfirsttime.co.uk/interactive-pathway-to-help-diagnose-and-treat-cauda-equina-syndrome-without-delay-is-now-live/)**, designed for point-of-care use on any device.
 
 ## Introduction
 
 Cauda equina syndrome (CES) is compression of the lumbosacral nerve roots below the level of the spinal cord (typically below L1-L2), causing a characteristic combination of bladder, bowel, sexual, saddle sensory and lower limb motor/sensory disturbance. It is one of the few true orthopaedic surgical emergencies and one of the highest-volume sources of litigation in UK spinal practice. CES affects roughly 1-3 people per 100,000 population in England, with around 8,000 suspected cases assessed each year ([GIRFT](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)).
 
-!!! info "Most suspected CES is not actually CES"
-    In the largest prospective UK cohort to look at this directly ([Hoeritzauer et al., *Neurology* 2021](https://pubmed.ncbi.nlm.nih.gov/33177221/)), 69% of patients referred with suspected CES had no radiographic evidence of cauda equina compression on MRI, and only around a quarter had confirmed compression, consistent with an earlier systematic review's estimate of roughly 19%. A related Oxford analysis has separately reported that over 80% of urgent MRIs requested for suspected CES show no compression ([SuCESS score development, *BJS* 2026](https://academic.oup.com/bjs/article/113/Supplement_2/znag018.007/8551044)). This matters for how the whole topic should be taught: the diagnostic challenge isn't just recognising CES, it's managing a high-volume pathway where true positives are a minority, without either over-scanning everyone or missing the genuine emergencies. The ongoing **[CESER study](https://oxfordbrc.nihr.ac.uk/1-2m-award-to-improve-diagnosis-of-emergency-spinal-condition/)** (Cauda Equina Syndrome Early Recognition, NIHR-funded, Oxford) is specifically trying to improve this, recruiting 2,000 patients with suspected CES to identify which symptoms actually predict a confirmed diagnosis, worth watching for results.
+!!! info "Most suspected CES is not CES"
+    In the largest prospective UK cohort to look at this directly ([Hoeritzauer et al., *Neurology* 2021](https://pubmed.ncbi.nlm.nih.gov/33177221/)), 69% of patients referred with suspected CES had no radiographic evidence of cauda equina compression on MRI, and only around a quarter had confirmed compression, consistent with an earlier systematic review's estimate of roughly 19%. A related Oxford analysis has separately reported that over 80% of urgent MRIs requested for suspected CES show no compression ([SuCESS score development, *BJS* 2026](https://academic.oup.com/bjs/article/113/Supplement_2/znag018.007/8551044)). This matters for how the whole topic should be taught: the diagnostic challenge isn't just recognising CES, it's managing a high-volume pathway where true positives are a minority, without either over-scanning everyone or missing the genuine emergencies. The ongoing **[CESER study](https://ceser.octru.ox.ac.uk)** is specifically trying to improve this, recruiting 2,000 patients with suspected CES to identify which symptoms predict a confirmed diagnosis.
 
 ## Aetiology
 
@@ -43,35 +43,35 @@ Cauda equina syndrome (CES) is compression of the lumbosacral nerve roots below 
 
 There is no single internationally agreed definition of CES. A [systematic review of 110 studies, 52,008 patients (Mustafa et al., *PLOS ONE* 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10159340/) found that only 14.5% used an established definition at all, the rest used study-specific criteria, most commonly built around urinary dysfunction, perianal sensory change, and reduced anal tone in varying combinations. Where a named definition was used, the [Fraser criteria](https://pubmed.ncbi.nlm.nih.gov/19887225/) and the BASS definition were the most common, followed by [Gleave and MacFarlane](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8782783/).
 
-The most widely used classification, and the one worth being fluent in, is the two-stage [Gleave and MacFarlane system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8782783/). Worth being precise here: Gleave and MacFarlane's original classification defined only CESI and CESR. "CES-Suspected" is a later, widely used clinical addition (including in the GIRFT pathway) to capture patients before bladder involvement, not part of the original 2002 classification, worth knowing so you don't attribute it to a source that never defined it.
+The most widely used classification is the two-stage [Gleave and MacFarlane system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8782783/). Gleave and MacFarlane's original classification defined only CESI and CESR. "CES-Suspected" is a later, widely used clinical addition (including in the GIRFT pathway) to capture patients before bladder involvement.
 
 | Category | Features |
 |---|---|
-| CES-Suspected | Back pain with bilateral radiculopathy, no bladder/bowel symptoms yet |
+| CES-Suspected | Back pain with bilateral radiculopathy, no bladder/bowel symptoms |
 | CES-Incomplete (CESI) | Altered urinary sensation, loss of desire to void, or poor stream, without frank retention, bladder still under executive control |
 | CES-Retention (CESR) | Painless urinary retention with overflow incontinence, bladder no longer under executive control |
 | CES-Complete | Complete, established sensory and motor loss |
 
-The transition from CESI to CESR is generally considered to reflect a step-change in the degree of nerve root injury, and therefore carries prognostic weight, though the underlying pathophysiology remains debated and the point of transition can be hard to pin down precisely in practice (see the timing controversy below).
+The transition from CESI to CESR is generally considered to reflect a step-change in the degree of nerve root injury, and therefore carries prognostic weight, though the underlying pathophysiology remains debated and the point of transition can be hard to pin down precisely.
 
 ## Clinical presentation
 
 - Bilateral or alternating sciatica
 - Saddle (perianal) sensory disturbance
 - Bladder dysfunction, most commonly urgency, altered sensation or a poor stream rather than frank retention at first presentation
-- Sexual dysfunction: in men, this typically presents as erectile dysfunction; in women, as reduced genital sensation or anorgasmia. Both sexes can experience reduced perineal/genital sensation more generally. This is a GIRFT-recognised presenting feature and worth asking about directly, patients frequently won't volunteer it unprompted
+- Sexual dysfunction: in men, this typically presents as erectile dysfunction; in women, as reduced genital sensation or anorgasmia. Both sexes can experience reduced perineal/genital sensation more generally. This is worth asking about directly as patients frequently won't volunteer it unprompted
 - Variable lower limb motor and sensory deficit, may be asymmetric
 
 ## Examination findings, and how much to trust them
 
-This is the part of CES teaching most in need of updating. Digital rectal examination (DRE) of anal tone is close to universally taught as a mandatory part of CES assessment. On the current evidence, testing anal tone specifically does not meaningfully help rule CES in or out, sensitivity is poor, one large study found no statistical association with MRI-confirmed compression at all, and the practice is retained in guidance and training mainly for documentation and medicolegal reasons (see below), not because it performs well as a diagnostic test. That distinction, between "expected practice" and "clinically useful test," is worth trainees noticing and weighing up for themselves rather than assuming the two are the same thing.
+Digital rectal examination (DRE) of anal tone is close to universally taught as a mandatory part of CES assessment. On the current evidence, testing anal tone specifically does not meaningfully help rule CES in or out. Sensitivity is poor. One large study found no statistical association with MRI-confirmed compression and DRE findings. The practice is retained in guidance and training mainly for documentation and medicolegal reasons, not because it performs well as a diagnostic test. That distinction, between "expected practice" and "clinically useful test," is worth trainees noticing and weighing up for themselves rather than assuming the two are the same thing.
 
-Worth being precise about which part of the PR exam this applies to: the strongest negative evidence relates specifically to resting **anal tone** (a motor finding), not to sensory testing performed during the same examination. Conflating the two risks trainees concluding the whole PR exam is worthless, which the evidence doesn't support.
+**Anal tone**, a motor finding, is not the same as perianal sensory testing performed during the PR examination. Conflating the two risks trainees concluding the whole PR exam is worthless, which the evidence doesn't support.
 
-| Finding | What the evidence actually shows |
+| Finding | What the evidence shows |
 |---|---|
 | Anal tone (DRE) | A [systematic review and meta-analysis of 6 studies, 741 patients](https://pubmed.ncbi.nlm.nih.gov/35180641/) found sensitivity ranging only 0.23-0.53 across studies, concluding DRE of anal tone "carries a high risk of false reassurance" and is "not recommended in any clinical setting." A separate [study of 1005 patients](https://pubmed.ncbi.nlm.nih.gov/34796788/) found no association between abnormal anal tone and MRI-confirmed compression at all |
-| Reduced anal/perianal sensation | A distinct, sensory finding, tested separately from tone during the same examination. Mixed but generally more favourable evidence than tone: the same 1005-patient study reported sensitivity 60%, specificity 68% for perianal sensation; an older meta-analysis by Fairbank et al. reported high specificity for perianal sensory loss. The heterogeneity itself is the honest teaching point here, but this is not the same evidence base as anal tone and shouldn't be dismissed alongside it |
+| Reduced perianal sensation | A distinct, sensory finding, tested separately from tone during the same examination. Mixed but generally more favourable evidence than tone: the same 1005-patient study reported sensitivity 60%, specificity 68% for perianal sensation; an older meta-analysis by Fairbank et al. reported high specificity for perianal sensory loss. |
 
 !!! info "A normal panel together still carries some weight"
     Testing tone in isolation performs poorly, but there is some evidence that a fully normal panel, tone, perianal sensation, anal squeeze and bulbocavernosus reflex all together, carries more reassurance than any single component alone. This is a different claim from "anal tone is individually useful", and it's easy to blur the two without noticing, worth holding this loosely given how thin the underlying evidence for the combined-panel claim still is.
