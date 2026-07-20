@@ -1,8 +1,8 @@
-site_name: Spine Hyperbook
+site_name: UK Spine Hyperbook (working title — rename before launch)
 site_description: A curriculum-mapped spine surgery reference for T&O and neurosurgical trainees
 site_author: Your name here
 # site_url: https://yourdomain.co.uk   # uncomment and set once you have a domain
-repo_url: https://github.com/spine-hyperbook/spine-hyperbook
+repo_url: https://github.com/benjamin-drake/spine-hyperbook
 repo_name: spine-hyperbook
 edit_uri: edit/main/docs/
 
@@ -55,7 +55,7 @@ nav:
   - Cervical Spine:
       - cervical-spine/index.md
       - Cervical Radiculopathy: cervical-spine/cervical-radiculopathy.md
-      - Cervical Myelopathy: cervical-spine/cervical-myelopathy.md
+      - Cervical Spondylotic Myelopathy: cervical-spine/cervical-myelopathy.md
       - ACDF vs Cervical Disc Replacement: cervical-spine/acdf-vs-disc-replacement.md
       - Craniocervical Junction & Atlantoaxial Instability: cervical-spine/craniocervical-junction.md
   - Thoracic Spine:
@@ -93,6 +93,7 @@ nav:
   - Emergencies:
       - emergencies/index.md
       - Cauda Equina Syndrome: emergencies/cauda-equina-syndrome.md
+      - Bilateral Facet Dislocation: emergencies/bilateral-facet-dislocation.md
   - Paediatric Spine: paediatric-spine/index.md
   - Radiology: radiology/index.md
   - Miscellaneous: misc/index.md
